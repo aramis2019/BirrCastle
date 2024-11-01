@@ -1,0 +1,6 @@
+@Lurax.TaskMaster_HostAddress = http://localhost:5263
+
+GET {{Lurax.TaskMaster_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
